@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "someone@example.com"
+  email: "lostguid@outlook.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: lostguid
+  twitter: lost_guid
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
