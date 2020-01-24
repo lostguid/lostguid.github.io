@@ -1,5 +1,5 @@
 ---
 layout: post
-title: PLugin Architecture using .NET
-subtitle: Each post also has a subtitle
+title: Plugin Architecture using .NET
+subtitle: Coming up
 ---
