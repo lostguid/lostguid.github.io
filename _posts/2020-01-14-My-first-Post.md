@@ -3,7 +3,8 @@ layout: post
 title: First Post of my blog
 subtitle: words smell fresh here!
 comments: false
-tags: welcome,firstpost
+image: /img/new.jpg
+tags: welcome|firstpost
 published: true
 ---
 **2020** is here! And my birthday too!
