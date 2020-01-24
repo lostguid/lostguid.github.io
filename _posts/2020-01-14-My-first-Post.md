@@ -4,7 +4,9 @@ title: First Post of my blog
 subtitle: words smell fresh here!
 comments: false
 image: /img/new.jpg
-tags: welcome|firstpost
+tags:
+  - firstpost
+  - welcome
 published: true
 ---
 **2020** is here! And my birthday too!
