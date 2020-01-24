@@ -2,7 +2,7 @@
 layout: post
 title: First Post of my blog
 subtitle: words smell fresh here!
-image: /img/writing-in-notebook.jpg
+image: /img/sprout.jpg
 comments: false
 published: true
 ---
@@ -13,3 +13,5 @@ After attending [Codemash](https://www.codemash.org/) 2020 at Sandusky, I am gre
 I picked up few good learnings from the sessions, especially regarding GIT, Web authentication/authorization. I will try to post my learnings here as separate individual blog posts.
 
 Hopefully, this website gives me enough motivation to learn more and post!
+
+Happy reading!
