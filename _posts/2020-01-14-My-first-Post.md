@@ -2,7 +2,6 @@
 layout: post
 title: First Post of my blog
 subtitle: words smell fresh here!
-image: /img/sprout.jpg
 comments: false
 tags: welcome,firstpost
 published: true
