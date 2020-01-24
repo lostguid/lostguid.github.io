@@ -17,4 +17,4 @@ I picked up few good learnings from the sessions, especially regarding GIT, Web 
 
 Hopefully, this website gives me enough motivation to learn more and post!
 
-Happy reading!
+Happy reading! :v:
