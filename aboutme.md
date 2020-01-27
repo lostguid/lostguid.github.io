@@ -13,11 +13,14 @@ css: /css/love.css
       </svg>
       <span class="omega"><br>programming </span>
 </div>
-
 I have the following qualities:
 
 - I rock a great mustache :v:
 - I'm extremely loyal to my family and friends
+
+### Philosophy
+
+My philosophy on learning to use web technologies is always the same: experiment, fail, fix, fail again, fix again. Reading books will only get you so far -- you should spend time with your debugger, experimenting away with whichever technology you need to learn. Always keep an open mind, use tools you wouldn't usually use, and never give up :muscle:
 
 What else do you need?
 
