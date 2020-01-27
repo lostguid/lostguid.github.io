@@ -16,7 +16,7 @@ css: /css/love.css
 
 I have the following qualities:
 
-- I rock a great mustache
+- I rock a great mustache :v:
 - I'm extremely loyal to my family and friends
 
 What else do you need?
