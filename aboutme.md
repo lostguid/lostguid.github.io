@@ -29,4 +29,4 @@ Chat soon,
 {% highlight bash %}
 $whoami
 lostguid
-{% endhighlight %}
+{% endhighlight%}
