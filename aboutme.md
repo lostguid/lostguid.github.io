@@ -13,10 +13,16 @@ css: /css/love.css
       </svg>
       <span class="omega"><br>programming </span>
 </div>
-I have the following qualities:
 
+I love the combination of creative and logical problem-solving skills I get to use when writing code. I love how there's always more to learn about, with the constantly evolving new frameworks, tools, efficient design patterns which tend to boost the productivity of the developer and improve the digital experience of the user.
+
+I have the following qualities:
 - I rock a great mustache :v:
 - I'm extremely loyal to my family and friends
+
+### Technologies
+
+Being an experienced Software Engineer, I graduated with my Masters in Information systems and have a solid practical understanding of Programming, Design Patterns, Algorithms, Data Structures, Web Services, Cloud Computing, server-side frameworks ASP.NET MVC/Core, and Angular (2+) on the front-end. I work on Azure cloud technologies(Service Fabric, CosmosDB).
 
 ### Philosophy
 
