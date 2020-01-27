@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: {% raw  %}@lostguid{% endraw %}
+title: lostguid
 
 # Short description of your site
 description: Welcome!
