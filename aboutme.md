@@ -22,6 +22,10 @@ I have the following qualities:
 
 My philosophy on learning to use web technologies is always the same: experiment, fail, fix, fail again, fix again. Reading books will only get you so far -- you should spend time with your debugger, experimenting away with whichever technology you need to learn. Always keep an open mind, use tools you wouldn't usually use, and never give up :muscle:
 
+### Hobbies
+
+I enjoy watching movies. I love playing Tennis and am trying to get better in the game! I watch European football, cheering on the Manchester City, Barcelona and laughing at the misfortunes of Manchester United, Chelsea, and Real Madrid. If you're ever in the mood to get pwned, feel free to find me on FIFA for PSplus. If you want to hear my real opinion on things, beat me in FIFA.
+
 What else do you need?
 
 ### my history
