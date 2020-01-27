@@ -27,6 +27,6 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 Chat soon,
 {% highlight bash %}
-$whoami
+bash-3.2$ whoami
 lostguid
 {% endhighlight%}
