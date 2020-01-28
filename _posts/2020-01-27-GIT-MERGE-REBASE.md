@@ -6,7 +6,7 @@ image: /img/git-merge-rebase/Git.png
 tags: [git,programming]
 subtitle: just squash it!
 ---
-GIT is the most powerful GI(F)T given by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) to dev community. The most common commands that I use on a daily basis are clone, fetch, push, commit, **stash**. In this post I want to give my thoughts on when to use **merge** vs **rebase**, the key differences between them, pros and cons of both.
+GIT is the most resourceful GI(F)T given by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) to dev community. The most common commands that I use on a daily basis are clone, fetch, push, commit, **stash**. In this post I want to give my thoughts on when to use **merge** vs **rebase**, the key differences between them, pros and cons of both.
 
 ### What is merge and rebase
 
