@@ -11,7 +11,7 @@ description: Welcome!
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://lostguid.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -70,8 +70,8 @@ social-network-links:
 # rss: false
   email: "lostguid@outlook.com"
 #  facebook: deanattali
-  github: lostguid
-# twitter: lost_guid
+#  github: lostguid
+  twitter: lost_guid
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -101,7 +101,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-157144522-1"
 
 # Google Tag Manager ID
 #gtm: ""
