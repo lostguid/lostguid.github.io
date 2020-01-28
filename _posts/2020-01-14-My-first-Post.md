@@ -14,17 +14,3 @@ I picked up few good learnings from the sessions, especially regarding GIT, Web 
 Hopefully, this blog gives me enough motivation to learn more and post!
 
 Happy reading!
-
-```c#
-public virtual string Version {
-            get {
-                if(this._version == null) {
-                    this._version = FileVersionInfo.GetVersionInfo(this.GetType().GetTypeInfo().Assembly.Location).ProductVersion;
-                }
-                return this._version;
-            }
-            set {
-                this._version = value;
-            }
-        }
-```
