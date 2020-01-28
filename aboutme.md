@@ -43,3 +43,19 @@ Chat soon,
 $ whoami
 lostguid
 ```
+```c#
+public virtual string Version {
+            get {
+                if(this._version == null) {
+                    this._version = FileVersionInfo.GetVersionInfo(this.GetType().GetTypeInfo().Assembly.Location).ProductVersion;
+                }
+
+                return this._version;
+            }
+
+            set {
+                this._version = value;
+            }
+        }
+```
+
