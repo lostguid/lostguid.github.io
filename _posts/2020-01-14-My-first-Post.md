@@ -3,10 +3,6 @@ layout: post
 title: First Post of my blog
 subtitle: words smell fresh here!
 comments: false
-image: /img/sprout.jpg
-tags:
-  - firstpost
-  - welcome
 published: true
 ---
 **2020** is here! And my birthday too!
