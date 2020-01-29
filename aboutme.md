@@ -14,15 +14,15 @@ css: /css/love.css
       <span class="omega"><br>programming </span>
 </div>
 
+Hello there! I am a reluctant **full-stack** developer. I primarily work on C# backend, almost dangerous with Angular! I also occasionally masquerade as ops working on CI/CD pipelines.
+
+Being an experienced Software Engineer, I graduated with my Masters in Information systems and have a solid practical understanding of *Programming*, *Design Patterns*, *Algorithms*, *Data Structures*, *Web Services*, *Cloud Computing*, server-side frameworks *ASP.NET MVC/Core*, and *Angular (2+)* on the front-end. I work on Azure cloud technologies(**Service Fabric**, *CosmosDB*).
+
 I love the combination of creative and logical problem-solving skills I get to use when writing code. I love how there's always more to learn about, with the constantly evolving new frameworks, tools, efficient design patterns which tend to boost the productivity of the developer and improve the digital experience of the user.
 
-I have the following qualities:
-- I rock a great mustache :v:
+I also have the following qualities:
+- I rock a great mustache :trollface: 
 - I'm extremely loyal to my family and friends
-
-### Technologies
-
-Being an experienced Software Engineer, I graduated with my Masters in Information systems and have a solid practical understanding of Programming, Design Patterns, Algorithms, Data Structures, Web Services, Cloud Computing, server-side frameworks ASP.NET MVC/Core, and Angular (2+) on the front-end. I work on Azure cloud technologies(Service Fabric, CosmosDB).
 
 ### Philosophy
 
@@ -40,7 +40,7 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 Chat soon,
 ```bash
-$ whoami
+$whoami
 lostguid
 ```
 
