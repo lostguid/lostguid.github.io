@@ -14,7 +14,7 @@ css: /css/love.css
       <span class="omega"><br>programming </span>
 </div>
 
-Hello there! I am a reluctant **full-stack** developer. I primarily work on C# backend, almost dangerous with Angular! I also occasionally masquerade as ops working on CI/CD pipelines.
+**Hello there!** I am a reluctant **full-stack** developer. I primarily work on C# backend, almost dangerous with Angular! I also occasionally masquerade as ops working on CI/CD pipelines.
 
 Being an experienced Software Engineer, I graduated with my Masters in Information systems and have a solid practical understanding of *Programming*, *Design Patterns*, *Algorithms*, *Data Structures*, *Web Services*, *Cloud Computing*, server-side frameworks *ASP.NET MVC/Core*, and *Angular (2+)* on the front-end. I work on Azure cloud technologies(**Service Fabric**, *CosmosDB*).
 
@@ -30,7 +30,7 @@ My philosophy on learning to use web technologies is always the same: experiment
 
 ### Hobbies
 
-I enjoy watching movies. I love playing Tennis:yellow_heart: and am trying to get better in the game! I watch European football:soccer:, cheering on the Manchester City, Barcelona and laughing at the misfortunes of Manchester United, Chelsea, and Real Madrid. If you're ever in the mood to get pwned, feel free to find me on FIFA for PSplus:video_game:. If you want to hear my real opinion on things, beat me in FIFA.
+I enjoy watching movies. I love playing Tennis:yellow_heart: and am trying to get better in the game! I watch European football:soccer:, cheering on the Manchester City, Barcelona and laughing at the misfortunes of Manchester United, Chelsea, and Real Madrid. If you're ever in the mood to get pwned, feel free to find me on FIFA for PSplus:video_game:. If you want to hear my real opinion on things, beat me in FIFA. {: style="text-align: justify"}
 
 What else do you need?
 
@@ -38,7 +38,11 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-Chat soon,
+### Disclaimer
+
+I started this blog mainly as `notes to myself`. I am learning things better when I force myself to write them down in a way someone could understand. The views and opinions expressed on this blog are solely my own. They donot express the views or opinions of my employer. In fact, I'm just sharing my thoughts and I could very well be *wrong*!
+
+**Chat soon,**
 ```bash
 $whoami
 lostguid
