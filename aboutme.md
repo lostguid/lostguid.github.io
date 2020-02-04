@@ -30,13 +30,9 @@ My philosophy on learning to use web technologies is always the same: experiment
 
 ### Hobbies
 
-I enjoy watching movies. I love playing Tennis:yellow_heart: and am trying to get better in the game! I watch European football:soccer:, cheering on the Manchester City, Barcelona and laughing at the misfortunes of Manchester United, Chelsea, and Real Madrid. If you're ever in the mood to get pwned, feel free to find me on FIFA for PSplus:video_game:. If you want to hear my real opinion on things, beat me in FIFA. {: style="text-align: justify"}
+I enjoy watching movies. I love playing Tennis:yellow_heart: and am trying to get better in the game! I watch European football:soccer:, cheering on the Manchester City, Barcelona and laughing at the misfortunes of Manchester United, Chelsea, and Real Madrid. If you're ever in the mood to get pwned, feel free to find me on FIFA for PSplus:video_game:. If you want to hear my real opinion on things, beat me in FIFA.
 
 What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
 ### Disclaimer
 
