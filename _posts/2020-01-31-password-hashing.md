@@ -39,8 +39,8 @@ In step 4, never tell the user if it was the username or password they got wrong
 
 Salting hashes sounds like one of the steps of a cooking recipe, but in cryptography, the expression refers to adding random data to the input of a hash function to guarantee a unique output, the hash, even when the inputs are the same. Consequently, the unique hash produced by adding the salt can protect against different attack vectors, such as rainbow table attacks, while slowing down dictionary and brute-force attacks.
 
-Below is a sample to create and validate a hash using the following NuGet package
-*Microsoft.AspNetCore.Cryptography.KeyDerivation*
+Below is a sample to create and validate a hash using the following NuGet package *Microsoft.AspNetCore.Cryptography
+.KeyDerivation*
 
 ``` c#
 public class Hash  
@@ -70,9 +70,9 @@ Below are some hashing libraries:
 
 | Platform | CSPRNG |
 | :--------- |:--- |
-| PHP | [mcrypt_create_iv](https://www.php.net/manual/en/function.mcrypt-create-iv.php), [openssl_random_pseudo_bytes](https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php) |
-| Java | [java.security.SecureRandom](https://docs.oracle.com/javase/6/docs/api/java/security/SecureRandom.html) |
-| Dot NET (C#, VB) | [System.Security.Cryptography.RNGCryptoServiceProvider](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?redirectedfrom=MSDN&view=netframework-4.8) |
+| PHP | [mcrypt](https://www.php.net/manual/en/function.mcrypt-create-iv.php), [openssl](https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php) |
+| Java | [SecureRandom](https://docs.oracle.com/javase/6/docs/api/java/security/SecureRandom.html) |
+| Dot NET | [RNGCryptoSP](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?redirectedfrom=MSDN&view=netframework-4.8) |
 | Ruby | [SecureRandom](https://rubydoc.info/stdlib/securerandom/1.9.3/SecureRandom) |
 | Python | [os.urandom](https://docs.python.org/3/library/os.html) |
 
