@@ -14,7 +14,7 @@ css: /css/love.css
       <span class="omega"><br>programming </span>
 </div>
 
-**Hello there!** I am a reluctant **full-stack** developer. I primarily work on C# backend, almost dangerous with Angular! I also occasionally masquerade as ops working on CI/CD pipelines.
+**Hello there!** I am a reluctant **full-stack** developer. I primarily work on *C#* backend, almost dangerous with Angular! I also occasionally masquerade as ops working on CI/CD pipelines.
 
 Being an experienced Software Engineer, I graduated with my Masters in Information systems and have a solid practical understanding of *Programming*, *Design Patterns*, *Algorithms*, *Data Structures*, *Web Services*, *Cloud Computing*, server-side frameworks *ASP.NET MVC/Core*, and *Angular (2+)* on the front-end. I work on Azure cloud technologies(**Service Fabric**, *CosmosDB*).
 
